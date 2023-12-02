@@ -20,8 +20,5 @@ O jogo é jogado no console e permite que dois jogadores joguem um contra o outr
 - O jogo detecta quando um jogador ganhou o jogo.
 - O jogo detecta quando o jogo terminou em empate.
 
-## Contribuições
-
-Contribuições são bem-vindas. Por favor, abra uma issue para discutir o que você gostaria de mudar.
 
 
